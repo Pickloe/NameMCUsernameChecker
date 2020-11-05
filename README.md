@@ -10,7 +10,11 @@ Once you have done all that, you will need to add the list of usernames you want
 
 ![Screenshot](https://i.imgur.com/Rnwo7NR.png)
 
-
+# To-do List
+ - Add proxy support (Comes up with an error Error: 429 (Too Many Requests) mostly because its on your main ip only)
+ - Add multi-threading (too make the program faster)
+ - Remove false Availables (A lot of the times there might be false available simply because mojang blocked the name)
+ - Add in the title how much checked and how much left
 
 # Contact Information
 Discord: Pickloe#0001
