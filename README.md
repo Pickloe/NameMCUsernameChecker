@@ -1,4 +1,4 @@
-# NameMC Username Checker
+# DEPRECATED
 This checker will check through a list of usernames from the file "users.txt" through NameMC. It will then come up with 4 different possiblities which are "unavailable", "Exceeded Maximum Characters", "available", and "available later" which includes the date of when it will be able in UTC timzone. This was created for ***educational purposes only*** and I have added comments to what all the lines do for those who are curious how it works. ***I am not responsible for anything that you do.***
 
 # Installation
